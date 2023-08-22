@@ -1,0 +1,259 @@
+@media (max-width: 415px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .titulo {
+        font-size: 25px;
+    }
+
+    .aba {
+        margin: auto;
+        width: 300px;
+    }
+
+    .senai,
+    .senai2,
+    .udemy,
+    .alfahelix {
+        transform: scale(0.5);
+        margin-left: 0;
+        margin-top: 0;
+        padding-left: 0;
+        justify-content: center;
+    }
+
+    .cursos {
+
+        margin: 0;
+        padding: 0;
+    }
+
+    figure {
+        margin-left: 10px;
+
+    }
+
+    .btnsenai {
+        width: auto;
+        height: auto;
+        margin-right: 15px;
+    }
+
+    .nome_cursos {
+        margin-left: 65px;
+        margin-right: 30px;
+    }
+
+
+
+
+    .figure2 {
+        margin-left: 0;
+
+    }
+
+    .btnsenai2 {
+        width: auto;
+        height: auto;
+        margin-right: 10px;
+        margin-left: 35px;
+    }
+
+    .nome_cursos2 {
+        margin-left: 70px;
+        margin-right: 40px;
+    }
+
+
+
+
+
+    .figure3 {
+        margin-left: 0;
+
+    }
+
+    .btnudemy {
+        width: auto;
+        height: auto;
+        margin-right: 10px;
+        margin-left: 35px;
+    }
+
+    .nome_cursos3 {
+        margin-left: 70px;
+        margin-right: 40px;
+    }
+
+    .figure4 {
+        margin-left: 0;
+
+    }
+
+    .btnalfa {
+        width: auto;
+        height: auto;
+        margin-right: 10px;
+        margin-left: 0px;
+    }
+
+
+    .alfanome {
+        width: 190px;
+    }
+
+    .nome_cursos4 {
+        margin-left: 30px;
+        margin-right: 30px;
+
+    }
+
+    .Btn {
+        width: 90px;
+        height: 35px;
+        margin-top: 5px;
+        margin-left: 10px;
+
+    }
+
+    .nome_cabecalho {
+        margin-right: 0;
+    }
+
+
+
+}
+
+@media (max-width: 432px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .titulo {
+        font-size: 25px;
+    }
+
+    .aba {
+        margin: auto;
+        width: 300px;
+    }
+
+    .senai,
+    .senai2,
+    .udemy,
+    .alfahelix {
+        transform: scale(0.5);
+        margin-left: 0;
+        margin-top: 0;
+        padding-left: 0;
+        justify-content: center;
+    }
+
+    .cursos {
+
+        margin: 0;
+        padding: 0;
+    }
+
+    figure {
+        margin-left: 10px;
+
+    }
+
+    .btnsenai {
+        width: auto;
+        height: auto;
+        margin-right: 15px;
+    }
+
+    .nome_cursos {
+        margin-left: 65px;
+        margin-right: 30px;
+    }
+
+
+
+
+    .figure2 {
+        margin-left: 0;
+
+    }
+
+    .btnsenai2 {
+        width: auto;
+        height: auto;
+        margin-right: 10px;
+        margin-left: 35px;
+    }
+
+    .nome_cursos2 {
+        margin-left: 70px;
+        margin-right: 40px;
+    }
+
+
+
+
+
+    .figure3 {
+        margin-left: 0;
+
+    }
+
+    .btnudemy {
+        width: auto;
+        height: auto;
+        margin-right: 10px;
+        margin-left: 35px;
+    }
+
+    .nome_cursos3 {
+        margin-left: 70px;
+        margin-right: 40px;
+    }
+
+    .figure4 {
+        margin-left: 0;
+
+    }
+
+    .btnalfa {
+        width: auto;
+        height: auto;
+        margin-right: 10px;
+        margin-left: 0px;
+    }
+
+
+    .alfanome {
+        width: 190px;
+    }
+
+    .nome_cursos4 {
+        margin-left: 30px;
+        margin-right: 30px;
+
+    }
+
+    .Btn {
+        width: 90px;
+        height: 35px;
+        margin-top: 5px;
+        margin-left: 10px;
+
+    }
+
+    .btn_inicio {
+        margin-right: 25px;
+        margin-top: 17px;
+    }
+
+    .nome_cabecalho {
+        margin-right: 0;
+        font-size: 25px;
+    }
+
+
+}

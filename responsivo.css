@@ -1,0 +1,284 @@
+@media (min-width: 1201px) {
+    html {
+        scroll-behavior: smooth;
+        scroll-snap-type: y proximity;
+        scroll-padding: 40px;
+
+    }
+
+    .inicio {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .foto {
+        margin-right: 100px;
+        margin-top: 25px;
+        margin-left: 100px;
+    }
+
+    .Ola {
+        margin-left: 100px;
+        margin-top: 60px;
+        font-size: 30px;
+    }
+
+    .nome_cabecalho {
+        font-size: 35px;
+    }
+
+    .info_p {
+        text-align: start;
+        margin-left: 230px;
+        margin-top: 30px;
+        margin-right: 0;
+    }
+
+    .icones {
+        text-align: start;
+        margin-left: 230px;
+        margin-top: 30px;
+        margin-right: 0;
+
+    }
+
+    .main {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .sobre {
+        margin-right: 300px;
+        margin-top: 30px;
+        font-size: 25px;
+        margin-left: 190px;
+
+    }
+
+    .barra3 {
+        margin-top: 100px;
+        height: 200px;
+        width: 3px;
+        margin-left: 55px;
+
+    }
+
+    .cursos_n {
+        font-size: 30px;
+        margin-bottom: 0;
+
+    }
+
+    .cursos {
+        margin-top: 3px;
+        color: #ff0000;
+    }
+
+}
+
+@media (max-width: 415px) {
+    html {
+        scroll-behavior: smooth;
+        scroll-snap-type: y proximity;
+        scroll-padding: 40px;
+
+    }
+
+    body {
+        width: 414px;
+        overflow-x: hidden;
+
+    }
+
+    .table {
+        width: 90%;
+        height: 1450px;
+    }
+
+    .img1 {
+        width: 100px;
+        height: 100px;
+        margin: 0;
+    }
+
+    .energy {
+        font-size: 15px;
+        margin-left: 200px;
+
+    }
+
+    .font {
+        font-size: 15px;
+        margin-left: 5px;
+    }
+
+    .nomes {
+        font-size: 15px;
+        margin-left: 50px;
+
+    }
+
+    ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img2,
+    .img3,
+    .img3,
+    .img4,
+    .img5,
+    .img6 {
+        width: 110px;
+        height: 110px;
+        margin: 0;
+        margin-right: 25px;
+    }
+
+    .nome_cabecalho {
+        font-size: 19px;
+    }
+
+    .botoes {
+        font-size: 10px;
+        margin-top: 25px;
+        margin-left: 20px;
+        margin-right: 10px;
+    }
+
+    .botoes_menu {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 375px) {
+    html {
+        scroll-behavior: smooth;
+        scroll-snap-type: y proximity;
+        scroll-padding: 40px;
+
+    }
+
+    Body {
+        width: 375px;
+        overflow-x: hidden;
+    }
+
+    .table {
+        margin-right: 25px;
+    }
+
+    .barra_meio {
+        display: flex;
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 388px) {
+    html {
+        scroll-behavior: smooth;
+        scroll-snap-type: y proximity;
+        scroll-padding: 40px;
+
+    }
+
+    Body {
+        width: 388px;
+        overflow-x: hidden;
+
+    }
+
+    .table {
+        overflow-x: hidden;
+    }
+
+    .div_barra {
+        margin-bottom: 20px;
+        margin-top: 15px;
+        margin-left: 5px;
+    }
+
+}
+
+@media (max-width: 432px) {
+    html {
+        scroll-behavior: smooth;
+        scroll-snap-type: y proximity;
+        scroll-padding: 40px;
+
+    }
+
+    .table {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .nome_cabecalho {
+        font-size: 19px;
+    }
+
+    .botoes {
+        font-size: 10px;
+        margin-top: 25px;
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+
+    .botoes_menu {
+        margin-right: 0;
+    }
+
+    .div_barra {
+        margin-left: 15px;
+        margin-bottom: 20px;
+        margin-top: 25px;
+     
+    }
+    ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img2,
+    .img3,
+    .img3,
+    .img4,
+    .img5,
+    .img6 {
+        width: 110px;
+        height: 110px;
+        margin: 0;
+        margin-right: 25px;
+    }
+
+    .img1 {
+        width: 100px;
+        height: 100px;
+        margin: 0;
+    }
+
+    .energy {
+        font-size: 15px;
+        margin-left: 200px;
+
+    }
+
+    .font {
+        font-size: 15px;
+        margin-left: 5px;
+    }
+
+    .nomes {
+        font-size: 15px;
+        margin-left: 50px;
+
+    }
+
+    .table {
+        margin-right: 25px;
+        width: 90%;
+        height: auto;
+    }
+
+}
